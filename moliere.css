@@ -1,36 +1,28 @@
 .speech {
     font-size: 15px;
-    //font-style: italic;
     color: black;
     font-family: "Times New Roman";
 }
-
 .direction {
     font-size: 15px;
-    //font-style: italic;
     color: black;
     background-color: lavender;
     font-family: "Times New Roman";
 }
-
 h6.direction:hover {
     background-color: cornsilk;
     color: skyblue;
-}
-
+}S
 .name {
     font-size: 15px;
-    //font-style: italic;
     color: black;
     font-family: "Times New Roman";
 }
-
 h6.name {
     margin-block: auto;
 }
-
 .Mme {
-    color: papayawhip;
+    color: crimson;
 }
 .Elmire {
     color:cornflowerblue;
@@ -38,10 +30,9 @@ h6.name {
 .Dorine {
     color:darkkhaki
 }
-
 .Damis {
     color:darkseagreen;
 }
 .Mariane{
-    color:honeydew;
+    color:darkgray;
 }
