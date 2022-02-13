@@ -50,3 +50,13 @@ tbody tr:nth-child(odd) {
     margin: 2px;
     padding: 2px;
  }
+.hari {
+    margin: 2px;
+    padding-top: 1rem;
+}
+.playStyle {
+    font-style: italic;
+    font-size: 18px;
+    font-family: monospace;
+    border: 2px solid purple;
+}
