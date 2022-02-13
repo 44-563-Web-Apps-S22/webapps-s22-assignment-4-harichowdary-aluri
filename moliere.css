@@ -60,3 +60,8 @@ tbody tr:nth-child(odd) {
     font-family: monospace;
     border: 2px solid purple;
 }
+h6.name:hover {
+    border: 1px solid #ae92e2;
+    padding: 10px;
+    box-shadow: 5px 10px #ae92e2;
+}
